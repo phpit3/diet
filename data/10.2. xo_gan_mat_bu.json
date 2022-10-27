@@ -1,0 +1,366 @@
+[
+  {
+    "nang_luong": "1200",
+    "nhom_1": {
+      "ngu_coc": "8.5",
+      "kc_va_spcb": "1.5"
+    },
+    "nhom_2": {
+      "qua_chin": "1"
+    },
+    "nhom_3": {
+      "thit_it_beo": "2.1"
+    },
+    "nhom_4": {
+      "sua": "0"
+    },
+    "nhom_5": {
+      "chat_beo": "1.8"
+    },
+    "nhom_6": {
+      "rau_xanh": "1.5"
+    },
+    "nhom_7": {
+      "duong": "3"
+    },
+    "nhom_gia_vi": {
+      "muoi": "2 - 4"
+    }
+  },
+  {
+ 	"nang_luong": "1300",
+ 	"nhom_1": {
+ 		"ngu_coc": "9.3",
+ 		"kc_va_spcb": "1.5"
+ 	},
+ 	"nhom_2": {
+ 		"qua_chin": "1"
+ 	},
+ 	"nhom_3": {
+ 		"thit_it_beo": "2.3"
+ 	},
+ 	"nhom_4": {
+ 		"sua": "0"
+ 	},
+ 	"nhom_5": {
+ 		"chat_beo": "2"
+ 	},
+ 	"nhom_6":{
+ 		"rau_xanh": "1.5"
+ 	},
+ 	"nhom_7": {
+ 		"duong": "3.5"
+ 	},
+ 	"nhom_gia_vi": {
+ 		"muoi": "2 - 4"
+ 	}
+  },
+  {
+  	"nang_luong": "1400",
+  	"nhom_1": {
+  		"ngu_coc": "10",
+  		"kc_va_spcb": "1.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "2.4"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "2.1"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "1.5"
+  	},
+  	"nhom_7": {
+  		"duong": "3.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "1500",
+  	"nhom_1": {
+  		"ngu_coc": "10.7",
+  		"kc_va_spcb": "1.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "2.6"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "2.4"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "1.5"
+  	},
+  	"nhom_7": {
+  		"duong": "3.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "1600",
+  	"nhom_1": {
+  		"ngu_coc": "11.7",
+  		"kc_va_spcb": "1.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "2.7"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "2.5"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "1.5"
+  	},
+  	"nhom_7": {
+  		"duong": "4"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "1700",
+  	"nhom_1": {
+  		"ngu_coc": "12.4",
+  		"kc_va_spcb": "1.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "2.8"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "2.7"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2"
+  	},
+  	"nhom_7": {
+  		"duong": "4"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "1800",
+  	"nhom_1": {
+  		"ngu_coc": "12.8",
+  		"kc_va_spcb": "2"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "3.1"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "2.8"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2"
+  	},
+  	"nhom_7": {
+  		"duong": "4.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "1900",
+  	"nhom_1": {
+  		"ngu_coc": "13.5",
+  		"kc_va_spcb": "2"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "3.3"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2"
+  	},
+  	"nhom_7": {
+  		"duong": "4.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "2000",
+  	"nhom_1": {
+  		"ngu_coc": "13.7",
+  		"kc_va_spcb": "2.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "3.6"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3.1"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2.5"
+  	},
+  	"nhom_7": {
+  		"duong": "5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "2100",
+  	"nhom_1": {
+  		"ngu_coc": "14.4",
+  		"kc_va_spcb": "2.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "3"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "3.7"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3.2"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2.5"
+  	},
+  	"nhom_7": {
+  		"duong": "5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "2200",
+  	"nhom_1": {
+  		"ngu_coc": "15.3",
+  		"kc_va_spcb": "2.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "3"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "3.9"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3.4"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2.5"
+  	},
+  	"nhom_7": {
+  		"duong": "5.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "2300",
+  	"nhom_1": {
+  		"ngu_coc": "16",
+  		"kc_va_spcb": "2.5"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "3.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "4"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3.6"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2.5"
+  	},
+  	"nhom_7": {
+  		"duong": "5.5"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  },
+  {
+  	"nang_luong": "2400",
+  	"nhom_1": {
+  		"ngu_coc": "16.3",
+  		"kc_va_spcb": "3"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "3.5"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "4.3"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "3.7"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "2.5"
+  	},
+  	"nhom_7": {
+  		"duong": "6"
+  	},
+  	"nhom_gia_vi": {
+  		"muoi": "2 - 4"
+  	}
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "nang_luong": "1200",
+    "nhom_1": {
+      "ngu_coc": "1.5 - 4.0",
+      "kc_va_spcb": "6.8 - 4.3"
+    },
+    "nhom_2": {
+      "qua_chin": "1"
+    },
+    "nhom_3": {
+      "thit_beo_trung_binh": "1.4 - 2.1"
+    },
+    "nhom_4": {
+      "sua": "0"
+    },
+    "nhom_5": {
+      "chat_beo": "6.8 - 5.2"
+    },
+    "nhom_6": {
+      "rau_xanh": "3"
+    },
+    "nhom_7": {
+      "duong": "0"
+    },
+    "nhom_8": {
+      "hat": "0"
+    },
+    "nhom_gia_vi": {
+      "muoi": "< 3"
+    }
+  },
+  {
+    "nang_luong": "1300",
+    "nhom_1": {
+      "ngu_coc": "1.5 - 6.5",
+      "kc_va_spcb": "7.6 - 2.3"
+    },
+    "nhom_2": {
+      "qua_chin": "1"
+    },
+    "nhom_3": {
+      "thit_beo_trung_binh": "1.4 - 2.4"
+    },
+    "nhom_4": {
+      "sua": "0 - 0.5"
+    },
+    "nhom_5": {
+      "chat_beo": "7.6 - 4.1"
+    },
+    "nhom_6":{
+      "rau_xanh": "3"
+    },
+    "nhom_7": {
+      "duong": "0"
+    },
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+    "nhom_gia_vi": {
+      "muoi": "< 3"
+    }
+  },
+  {
+  	"nang_luong": "1400",
+  	"nhom_1": {
+  		"ngu_coc": "1.5 - 5.2",
+  		"kc_va_spcb": "8.3 - 4.1"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "1.4 - 2.4"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "8.5 - 5.0"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "3"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "1500",
+  	"nhom_1": {
+  		"ngu_coc": "4.0 - 6.5",
+  		"kc_va_spcb": "6.6 - 4.1"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 2.4"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "7.7 - 6.1"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "3"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "1600",
+  	"nhom_1": {
+  		"ngu_coc": "4.0 - 7.7",
+  		"kc_va_spcb": "7.4 - 3.2"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "1"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.1"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "8.5 - 8.0"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "3"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "1700",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 7.5",
+  		"kc_va_spcb": "9.0 - 3.7"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.1"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "9.4 - 5.8"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "1800",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 7.5",
+  		"kc_va_spcb": "9.8 - 4.8"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.6"
+  	},
+  	"nhom_4": {
+  		"sua": "0"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "10.2 - 7.0"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "1900",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 7.5",
+  		"kc_va_spcb": "10.5 - 5.3"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.1"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "11.0 - 7.6"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "2000",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 8.6",
+  		"kc_va_spcb": "11.3 - 6.7"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.8"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "11.9 - 6.7"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "2100",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 7.7",
+  		"kc_va_spcb": "12.1 - 6.2"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.8"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "12.7 - 7.6"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4 - 5"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "2200",
+  	"nhom_1": {
+  		"ngu_coc": "2.5 - 7.7",
+  		"kc_va_spcb": "12.9 - 7.0"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.1 - 3.8"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "13.5 - 8.4"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "4 - 5"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "2300",
+  	"nhom_1": {
+  		"ngu_coc": "4.0 - 10.2",
+  		"kc_va_spcb": "12.0 - 5.3"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_it_beo": "2.9 - 4.5"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "12.8 - 7.6"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "5"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  },
+  {
+  	"nang_luong": "2400",
+  	"nhom_1": {
+  		"ngu_coc": "4.0 - 10.2",
+  		"kc_va_spcb": "12.8 - 6.1"
+  	},
+  	"nhom_2": {
+  		"qua_chin": "2"
+  	},
+  	"nhom_3": {
+  		"thit_beo_trung_binh": "2.9 - 4.5"
+  	},
+  	"nhom_4": {
+  		"sua": "0 - 0.5"
+  	},
+  	"nhom_5": {
+  		"chat_beo": "13.6 - 8.5"
+  	},
+  	"nhom_6": {
+  		"rau_xanh": "5"
+  	},
+  	"nhom_7": {
+  		"duong": "0"
+  	},
+    "nhom_8": {
+      "hat": "0 - 0.3"
+    },
+  	"nhom_gia_vi": {
+  		"muoi": "< 3"
+  	}
+  }
+]
